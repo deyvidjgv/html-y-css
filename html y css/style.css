@@ -1,0 +1,22 @@
+body {
+    height: 450pt;
+    
+    background-image: url("https://i.pinimg.com/originals/9e/cd/a5/9ecda51d8c2bad23237e6e63159df01b.jpg");
+  background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+  
+p {
+    
+    margin-left: 0pc;
+    margin-right: 810pt;
+    padding: 0px;
+    border: black 2px solid;
+  }
+div{
+    margin-left: 0pc;
+    margin-right: 810pt;
+    background-color: lightblue
+
+}
